@@ -1,2 +1,2 @@
 # FRC-Code
-# THis is just the code from Bandit
+# This is just the code from Bandit
